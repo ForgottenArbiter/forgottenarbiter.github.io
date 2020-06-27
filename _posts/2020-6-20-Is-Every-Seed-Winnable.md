@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is Every Game of Slay the Spire Winnable?
+comment_issue_id: 1
 ---
 
 There is a lot of randomness in a game of Slay the Spire. From the cards and relics offered, to the potions dropped, to the map layouts and random encounters, very little remains the same between two playthroughs. This is part of the beauty of the game, forcing you to adapt and make the most out of the resources you have been given in each new attempt. However, with such randomness comes a natural question: can every run of Slay the Spire be won? In this article, I will discuss what I believe to be the current state of knowledge about the answer to this question.
@@ -74,7 +75,7 @@ Because we can only play 5 strikes and 1 Neutralize per two turns, the maximum d
 
 ### The game can force an elite fight on floor 6.
 
-With particularly bad luck, the map generation algorithm can force the player to fight an elite on floor 6, which is the lowest possible floor for elites to spawn. With even more back luck, the map might not have any shops or rest sites before this forced elite fight. This severely restricts the resources the player can have going into this forced elite fight.
+With particularly bad luck, the map generation algorithm can force the player to fight an elite on floor 6, which is the lowest possible floor for elites to spawn. With even more bad luck, the map might not have any shops or rest sites before this forced elite fight. This severely restricts the resources the player can have going into this forced elite fight.
 
 ![image-20200621204739562](../images/image-20200621204739562.png)
 
