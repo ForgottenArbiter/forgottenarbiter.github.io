@@ -117,16 +117,17 @@ Now that we have constructed a set of circumstances that produce an unwinnable s
 * No useful Neow rewards or boss relic swaps
 * Not many useful damage cards in the first few card rewards (it was too restrictive to filter for no damage cards whatsoever)
 * Four forced monster fights before the elite fight, with the fourth fight being a nasty [hard pool fight](https://docs.google.com/spreadsheets/d/1ZsxNXebbELpcCi8N7FVOTNGdX_K9-BRC_LMgx4TORo4/edit#gid=0&range=A11:A20) (large slime, gremlin gang, exordium thugs, exordium wildlife)
+* No potions that deal damage or increase strength before floor 6
 
-Because the restrictions on potions, damage cards, and even the identity of the elite fight were somewhat relaxed, these seeds were not provably impossible to defeat. To help make up for these relaxed restrictions, I added a requirement for an additional difficult mandatory combat before the first battle. In the end, less than one in 10,000,000 seeds were returned from the search. In order to truly evaluate these seeds, they then had to be manually played through floor 6. I would first attempt the seeds myself, and if I failed to find a way to win in a couple attempts, I would post them as challenges on the Slay the Spire Discord channel. Some readers may have heard about these challenges, which were done twice, once in October of 2019, and once in December of 2018. One of the most difficult seeds from 2018 was finally only solved by taking Grand Finale, but ultimately the entirety of Act 1 was defeated:
+Because the restrictions on potions, damage cards, and even the identity of the elite fight were somewhat relaxed, these seeds were not provably impossible to defeat. To help make up for these relaxed restrictions, I added a requirement for an additional difficult mandatory combat before the first battle. In the end, less than one in 50,000,000 seeds were returned from the search. In order to truly evaluate these seeds, they then had to be manually played through floor 6. I would first attempt the seeds myself, and if I failed to find a way to win in a couple attempts, I would post them as challenges on the Slay the Spire Discord channel. Some readers may have heard about these challenges, which were done three times, once in October of 2019, once in December of 2018, and once while writing this post, in June of 2020. One of the most difficult seeds from 2018 was only solved by taking Grand Finale, but ultimately the entirety of Act 1 was defeated:
 
 ![image-20200621223006209](../images/image-20200621223006209.png)
 
-And here is one of the harder seeds from the 2019 search:
+The most difficult seed ever found was seed 1Z21MCW (for Ascension 20 Silent on PC version 2.0 or current beta with full unlocks). It is just barely possible to kill Lagavulin on floor 6 with at least 9 HP remaining, but it requires a truly unnatural sequence of plays. Lagavulin also spawns with only 113 HP, and the route I took barely killed Lagavulin with a 2-damage strike. If Lagavulin instead had 115 HP, I think it's plausible that the seed would become impossible. If you want to challenge yourself with a very difficult puzzle, try to beat the seed yourself. I believe Peebs from the Jorbs community Discord channel was the first player to defeat the Corrupt Heart on this seed, proving without a doubt that the seed is not impossible.
 
-![image-20200621224020253](../images/image-20200621224020253.png)
+![image-20200627105705915](../images/image-20200627105705915.png)
 
-I expected that some of the seeds I found would never be solved. In reality, I never found an unbeatable seed, despite considering several hundred million seeds. This does not mean none of these hundreds of thousands of seeds are impossible, but it does suggest that unbeatable seeds are extraordinarily rare, at least for Silent on Ascension 20. And although I was only searching for seeds where death was inevitable by floor 6, I believe due to the extraordinary number of ways to play through Act 1, if the boss is reachable on a given seed, the entire seed is probably possible to win, even with a heart kill. If I remember correctly, both of the seeds above were ultimately played to at least an act 1boss kill.
+I expected that some of the seeds I found would never be solved. In reality, I never found an impossible seed, despite considering several billion seeds. This does not mean that all of these billions of seeds are possible to win, but it does suggest that unbeatable seeds are extraordinarily rare, at least for Silent on Ascension 20. And although I was only searching for seeds where death was inevitable by floor 6, I believe due to the extraordinary number of ways to play through Act 1, if the boss is reachable on a given seed, the entire seed is probably possible to win, even with a heart kill.
 
 ## Does an unwinnable seed probably exist?
 
@@ -137,9 +138,46 @@ $$
 \end{equation*}
 $$
 
-Based on this estimate, I think there is a very high chance that such an unwinnable seed exists, though it may be too rare to actually find an example.
+Based on this probability estimate, there is a very high chance that a provably unwinnable seed exists, even if it is too rare to practically find. But even using my current search techniques, I may eventually uncover an impossible seed. Seed 1Z21MCW occurred within the first 4 billion seeds, and was so barren of resources that even a slightly unluckier seed would certainly be truly impossible to defeat. 
+
+## Do unwinnable seeds exist for other rulesets?
+
+So far, I have been focusing on Ascension 20 (A20) Silent because it is the easiest combination to construct a truly unwinnable seed for. However, it is worth asking the same for other characters and difficulty levels. Based solely on intuition and my experiences with the RNG system in Slay the Spire, here are my current predictions:
+
+* A20 Watcher: An unwinnable seed probably does not exist
+* A20 Ironclad and Defect: An unwinnable seed might exist, but it would be much rarer than even on Silent
+* A16 and below, all characters except Silent: An unwinnable seed probably does not exist
+* A8-20: An unwinnable seed may exist for Silent
+
+Again, when I say here that an unwinnable seed probably does not exist, I mean that while it is possible to contrive of scenarios which cannot be won, those scenarios are so unlikely that they would almost certainly not occur in any of the 18.4 quintillion possible seeds. For example, while it is possible for every Watcher card reward before floor 6 to contain, for example, exactly Collect/Tranquility/Nirvana, this is vanishingly unlikely, and still wouldn't guarantee a loss to a forced floor-6 super elite, as I believe Watcher can defeat all of them with her starter deck and relics, plus a bit of shuffle luck (which can be further aided in practice by RNG manipulation).
+
+Ironclad, Defect, and Watcher have the advantage over Silent that their starting decks and relics contain much more damage, and therefore early elite fights are less dangerous. This makes it much more likely that they can defeat all early challenges using the resources they are given, even if those resources are exclusively defensive, rather than offensive, in nature. Furthermore, due to how much more difficult fights are on ascension 20 compared to ascension 15, and how difficult it is already to find an unwinnable seed on ascension 20, I think it is likely that no impossible seed exists on ascension 15. However, one possible exception is on Silent, where a forced floor 6 *burning elite* on, say, Gremlin Nob, might be enough to push a seed over the edge.
 
 ## What is the win rate of an optimal player?
 
+Based on the above discussion, all I can say so far is that the win rate for an optimal player on A20 Silent must be below 100%. However, without access to optimal play, any other conclusion must be speculation. Also, there are now even more rulesets to consider. For determining the existence of optimal seeds, I believe the decision to fight the Corrupt Heart is practically irrelevant, due to the amount of manipulation that can be done before the Heart must be encountered. However, the Heart makes a real difference in the performance of an actual player, as it represents a loss of resources over the course of the run, plus a pair of very dangerous additional encounters. I will attempt to make an estimate for win rates with and without Heart kills, but some of these combinations have very little data, and so I am forced to speculate. The truth is that nobody knows the real answers to these questions.
 
+### Ascension 0 or 1 win rate
 
+I believe all characters have a win rate above **99.9%** with optimal play, likely even above **99.99%**, with or without the heart. A few months after the game's early access release, ascension levels did not exist. Back then, I was one of the players competing on the win streak leaderboards, mostly with Celerity, the only streamer who played the game at a similarly high level. Both of us had a combined streak of around 50 with the Ironclad and Silent. The game felt hard to lose when played well, which is why we were pressuring the developers for ways to make the game harder. With the release of ascension levels and a leaderboard reset, both of us basically stopped playing ascension 0 for win rate, and I know of few players have focused on ascension 0 win rate since. However, because the win rate was already believed to be above 99% with perfect play at the time, and because the game has become easier since that time and game knowledge and strategy have seen so many developments, I am confident that players can win almost every game. The addition of the Heart or additional elites should not change the optimal win rate very much at this difficulty, though ascension 1 may be slightly better for heart kills with perfect play, due to the additional resources available.
+
+### Ascension 15 win rate
+
+For a long time, the highest difficulty of the game was ascension 15. Right before ascension 20 was released, there were several streamers competing for ascension 15 win rate or win streaks. The highest recorded win rate I know of was due to Pibonacci, with a 94% win rate over 67 games across all Ironclad, Silent, and Defect. It was a remarkably fair game, despite its difficulty, and the best players could win fairly consistently, even without playing perfectly. The game has become slightly easier since that time, and perfect play is significantly stronger than even the best human play, so I estimate the optimal win rate to be significantly higher without Heart kills, about **98-99%** for Ironclad, Silent, and Defect, and at least **99.5%** for Watcher. 
+
+For Ascension 15, I do expect the Heart to make a real difference in the amount of wins. I know of no recorded statistics for ascension 15 heart kill win rates, so I am forced to speculate based on my experience watching and playing ascension 15. I believe that some percentage of runs which could defeat the act 3 boss would come up slightly short when forced to also fight the heart. The question is how many?  Looking through runs of players on Ascension 20, I estimate about 20-30% of those runs which die, die in act 4. If we assume an optimal player has similar performance, and add a slight additional penalty for the difficulty incurred by unlocking act 4, then optimal Heart kill rates might be around **97-98%** for Ironclad, Silent, and Defect, and still **over 99%** for Watcher.
+
+### Ascension 20 win rate
+
+This is the difficulty that is mostly attempted by high-level players right now. Unfortunately, it is also frustratingly difficult to find statistics for the performance of ascension 20 players. The two I can immediately find for ascension 20 heart kills are:
+
+* TerrenceMHS has a 52%/40%/46%/72% win rate with Ironclad/Silent/Defect/Watcher over his last 50 heart kill attempts with each character
+* Lifecoach has a 93.5% win rate on Watcher over his last 46 games (I think the stats started selectively on a win streak, but even discounting the starting 13-1 it's a 93.75% win rate over 32 games)
+
+Based on watching all of these players, and my own experiences with each character, I expect the optimal win rates to be at least **75%** for the Ironclad, **60%** for the Silent, **65%** for the Defect, and **95%** for the Watcher. I suspect these estimates are all also a little bit on the low side. Slay the Spire is an incredibly complex game with an enormous number of decisions to make. Nobody plays perfectly, and everybody makes mistakes in each run which they do not even realize they are making. Very few people also focus exclusively on one character or play to their full potential every game to maximize win rate. Before Lifecoach, I probably would have estimated the Watcher win rate to be closer to 90% when played optimally.
+
+For runs that do not include the heart, I'll again estimate that about 25% of heart runs which die are deaths in Act 4, and then reduce the deaths by a further 10% due to not having to unlock act 4 or save resources for the Heart fight. This gives us at least around an **83%** win rate for the Ironclad, **73%** for the Silent, **75%** for Defect, and **96.5%** for the Watcher.
+
+## Can I help find an impossible seed?
+
+Sure! 
