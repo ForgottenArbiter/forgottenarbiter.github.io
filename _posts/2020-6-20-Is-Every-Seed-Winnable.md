@@ -159,7 +159,7 @@ Based on the above discussion, all I can say so far is that the win rate for an 
 
 ### Ascension 0 or 1 win rate
 
-I believe all characters have a win rate above **99.99%** with optimal play, likely even above **99.999%**, with or without the heart. A few months after the game's early access release, ascension levels did not exist. Back then, I was one of the players competing on the win streak leaderboards, mostly with Celerity, the only streamer who played the game at a similarly high level. Both of us had a combined streak of around 50 with the Ironclad and Silent. The game felt hard to lose when played well, which is why we were pressuring the developers for ways to make the game harder. With the release of ascension levels and a leaderboard reset, both of us basically stopped playing ascension 0 for win rate, and I know of few players have focused on ascension 0 win rate since. However, because the win rate was already believed to be above 99% with perfect play at the time, and because the game has become easier since that time and game knowledge and strategy have seen so many developments, I am confident that players can win almost every game. The addition of the Heart or additional elites should not change the optimal win rate very much at this difficulty, though ascension 1 may be slightly better for heart kills with perfect play, due to the additional resources available. 
+I believe all characters have a win rate above **99.99%** with optimal play, likely even above **99.999%**, with or without the heart. A few months after the game's early access release, ascension levels did not exist. Back then, I was one of the players competing on the win streak leaderboards, mostly with Celerity, the only streamer who played the game at a similarly high level. Both of us had a combined streak of around 50 with the Ironclad and Silent. The game felt hard to lose when played well, which is why we were pressuring the developers for ways to make the game harder. With the release of ascension levels and a leaderboard reset, both of us basically stopped playing ascension 0 for win rate, and I know of few players who have focused on ascension 0 win rate since. However, because the win rate was already believed to be above 99% with perfect play at the time, and because the game has become easier since that time and game knowledge and strategy have seen so many developments, I am confident that players can win almost every game. The addition of the Heart or additional elites should not change the optimal win rate very much at this difficulty, though ascension 1 may be slightly better for heart kills with perfect play, due to the additional resources available. 
 
 ### Ascension 15 win rate
 
@@ -180,14 +180,7 @@ For runs that do not include the heart, I'll again estimate that about 25% of he
 
 ## Can I help find an impossible seed?
 
-If you would like to try running a search yourself, check out the [hard-seeds branch of SeedSearch](https://github.com/ForgottenArbiter/SeedSearch/tree/hard-seeds). You will have to build it yourself, and the code is very messy in that branch, but it is what I was using to find all of my seeds. An advantage of compiling SeedSearch yourself is that you can also tweak the search parameters however you want, to pursue your own theories. To avoid overlapping with my own search, I also suggest looking at seeds greater than 100 billion. Also, with the configuration I use, less than 1 in 100 million seeds are returned, so don't expect very many hits.  For the search parameters, make sure:
-
-* monsterRoomWeight is different from eventRoomWeight
-* playerClass is "THE_SILENT"
-* ascensionLevel is 20
-* All the required relics, cards, events, etc. are empty
-
-Good luck!
+If you would like to try running a search yourself, check out the [hard-seeds branch of SeedSearch](https://github.com/ForgottenArbiter/SeedSearch/tree/hard-seeds). You will have to build it yourself, and the code is very messy in that branch, but it is what I was using to find all of my seeds. An advantage of compiling SeedSearch yourself is that you can also tweak the search parameters however you want, to pursue your own theories. To avoid overlapping with my own search, I also suggest looking at seeds greater than 100 billion. Also, with the configuration I use, less than 1 in 100 million seeds are returned, so don't expect very many hits.  Look at the Readme for the had-seeds branch for more information.  Good luck!
 
 ## Summary
 
