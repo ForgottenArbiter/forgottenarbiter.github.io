@@ -111,7 +111,7 @@ If any seed contains all of these components, then that seed cannot be won (on A
 
 ## Finding an unwinnable seed
 
-Now that we have constructed a set of circumstances that produce an unwinnable seed, the natural next step is to find such a seed. Fortunately, a long time ago, I created a [tool](https://github.com/ForgottenArbiter/SeedSearch) for exactly this task. I programmed the search to find seeds with the following parameters:
+Now that we have constructed a set of circumstances that produce an unwinnable seed, the natural next step is to find such a seed. Fortunately, a long time ago, I created a [tool](https://github.com/ForgottenArbiter/SeedSearch) for exactly this task. I programmed the search to find seeds with the following parameters, assuming ascension 20 Silent play on PC with full unlocks:
 
 * A forced floor-6 elite fight with no shops or rest sites below it
 * No useful Neow rewards or boss relic swaps
@@ -123,7 +123,7 @@ Because the restrictions on potions, damage cards, and even the identity of the 
 
 ![image-20200621223006209](../images/image-20200621223006209.png)
 
-The most difficult seed ever found was seed 1Z21MCW (for Ascension 20 Silent on PC version 2.0 or current beta with full unlocks). It is just barely possible to kill Lagavulin on floor 6 with at least 9 HP remaining, but it requires a truly unnatural sequence of plays. Lagavulin also spawns with only 113 HP, and the route I took barely killed Lagavulin with a 2-damage strike. If Lagavulin instead had 115 HP, I think it's plausible that the seed would become impossible. If you want to challenge yourself with a very difficult puzzle, try to beat the seed yourself. I believe Peebs from the Jorbs community Discord channel was the first player to defeat the Corrupt Heart on this seed, proving without a doubt that the seed is not impossible.
+The most difficult seed ever found was seed 1Z21MCW (for PC version 2.0). It is just barely possible to kill Lagavulin on floor 6 with at least 9 HP remaining, but it requires a truly unnatural sequence of plays. Lagavulin also spawns with only 113 HP, and the route I took barely killed Lagavulin with a 2-damage strike. If Lagavulin instead had 115 HP, I think it's plausible that the seed would become impossible. If you want to challenge yourself with a very difficult puzzle, try to beat the seed yourself. I believe Peebs from the Jorbs community Discord channel was the first player to defeat the Corrupt Heart on this seed, proving without a doubt that the seed is not impossible.
 
 ![image-20200627105705915](../images/image-20200627105705915.png)
 
