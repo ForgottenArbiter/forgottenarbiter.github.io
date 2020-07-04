@@ -105,7 +105,7 @@ Finally, there are many Silent cards which do not increase the amount of damage 
 It is entirely possible, though extraordinarily unlikely, to be offered only cards from this list in the first five floors of the game, plus from Neow. Therefore, we have the following theoretical scenario for an unwinnable run:
 
 1. Forced Lagavulin elite fight on floor 6, with no shops or rest sites on the first five floors
-2. No Neow bonuses, potion drops, or card rewards which help the player deal damage to Neow
+2. No Neow bonuses, potion drops, or card rewards which help the player deal damage to Lagavulin
 
 If any seed contains all of these components, then that seed cannot be won (on A20 Silent), no matter what the player does. Therefore, it seems likely that an unwinnable seed exists.
 
@@ -163,7 +163,7 @@ I believe all characters have a win rate above **99.99%** with optimal play, lik
 
 ### Ascension 15 win rate
 
-For a long time, the highest difficulty of the game was ascension 15. Right before ascension 20 was released, there were several streamers competing for ascension 15 win rate or win streaks. The highest recorded win rate I know of was due to Pibonacci, with a 94% win rate over 67 games across all Ironclad, Silent, and Defect. It was a remarkably fair game, despite its difficulty, and the best players could win fairly consistently, even without playing perfectly. The game has become slightly easier since that time, and perfect play is significantly stronger than even the best human play, so I estimate the optimal win rate to be significantly higher without Heart kills, at least **98-99%** for Ironclad, Silent, and Defect, and at least **99.5%** for Watcher. 
+For a long time, the highest difficulty of the game was ascension 15. Right before ascension 20 was released, there were several streamers competing for ascension 15 win rate or win streaks. The highest recorded win rate I know of was due to Pibonacci, with a 94% win rate over 67 games across Ironclad, Silent, and Defect. Ascension 15 was a remarkably fair game, despite its difficulty, and the best players could win fairly consistently, even without playing perfectly. The game has become slightly easier since that time, and perfect play is significantly stronger than even the best human play, so I estimate the optimal win rate to be significantly higher without Heart kills, at least **98-99%** for Ironclad, Silent, and Defect, and at least **99.5%** for Watcher. 
 
 For Ascension 15, I do expect the Heart to make a real difference in the amount of wins. I know of no recorded statistics for ascension 15 heart kill win rates, so I am forced to speculate based on my experience watching and playing ascension 15. I believe that some percentage of runs which could defeat the act 3 boss would come up slightly short when forced to also fight the heart. The question is how many?  I estimate, based slightly on data and largely on intuition, that about 20-30% of those runs which die, die in act 4. If we assume an optimal player has similar performance, and add a slight additional penalty for the difficulty incurred by unlocking act 4, then optimal Heart kill rates might be around **97-98%** for Ironclad, Silent, and Defect, and still **over 99%** for Watcher.
 
