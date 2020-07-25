@@ -84,8 +84,6 @@ $$
 &= 0.25
 \end{align*}
 $$
-
-
 So in this case, we have only a 25% chance of getting an event in the second room. The chance would only be 20% if the first combat encounter was a Jaw Worm, though. As the number of observed calls to `eventRng` and `monsterRng` increases, it becomes more difficult to do any of these calculations by hand. The main confounding factor is that after the first call to `monsterRng`, a random number of calls are discarded between each outcome that is observed, as the same combat encounter is rolled again. A computer program could perform the precise calculations, but I am personally not interested in writing such a program. I would like to see the RNG predictability issue fixed, instead.
 
 ## Predicting potion drops using card rarity
@@ -106,8 +104,8 @@ If instead of five combats before the treasure room, we only have four combats b
 
 ## Randomness in combat
 
-As I mentioned earlier, five of the random number generators are re-initialized each floor, to the same state. These largely are used to handle the different types of randomness that occur during combat, including the max HP of enemies, the AI of enemies, and the outcomes of random cards and potions. Luckily, I can't think of too much you can do to exploit this.
+As I mentioned earlier, five of the random number generators are re-initialized each floor, to the same state. These largely are used to handle the different types of randomness that occur during combat, including the max HP of enemies, the AI of enemies, and the outcomes of random cards and potions. Luckily, I can't think of too much you can do to exploit this. For example, there does not seem to be a way to predict the AI of any monsters based on their random HP values.
 
-## Plea to the devs
+## Plea to the developers
 
 If Casey and Anthony happen to see this post, I would like to please request a fix for this bug. Luckily, the opportunities for exploiting the interaction between the different random number generators seem to be fairly limited, based on what I currently believe. However, I believe players should never be incentivized to exploit the predictability of rng in order to play optimally. Maximizing the benefit from this predictability requires intimate knowledge of implementation details of the game, and in my opinion, is tedious and unnatural. Even just having the knowledge in this post feels to me like an exploit that is always accidentally active. While I and many others will continue to play, consciously ignoring the existence of the bug, it would at least grant significant peace of mind to know that independent events are truly independent. I know I have reported many bugs for the game, but this is the one that I would currently most like to see fixed.
