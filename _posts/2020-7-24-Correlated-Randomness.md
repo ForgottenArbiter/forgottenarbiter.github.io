@@ -1,10 +1,8 @@
-```
 ---
 layout: post
-Correlated Randomness in Slay the Spire
+title: Correlated Randomness in Slay the Spire
 comment_issue_id: 2
 ---
-```
 
 Here are three true statements about the game of Slay the Spire:
 
@@ -28,7 +26,7 @@ public static void generateSeeds() {
     treasureRng = new Random(Settings.seed);
     relicRng = new Random(Settings.seed);
     potionRng = new Random(Settings.seed);
-    // The following rngs are actually re-initialized each floor. We will discuss them later.
+    // The following rngs are actually re-initialized each floor:
     monsterHpRng = new Random(Settings.seed);
     aiRng = new Random(Settings.seed);
     shuffleRng = new Random(Settings.seed);
@@ -43,9 +41,9 @@ The first calls to `cardRng` and `potionRng` in a run ask for a random integer f
 
 ## Predicting mystery rooms using combat encounters
 
-The code to generate the first three regular combat encounters of act 1 does something like this (all variable and function names except `monsterRng` are mine:
+The code to generate the first three regular combat encounters of act 1 does something like this (all variable and function names except `monsterRng` are mine):
 
-```pseudocode
+```python
 combat_encounters = (empty ArrayList)
 while size(combats) < 3:
 	random_output = monsterRng.random()
@@ -58,7 +56,7 @@ Here, `get_monster` takes a random number from 0 to 1 and turns it into a combat
 
 The code to generate the result of a mystery room looks something like this:
 
-```pseudocode
+```python
 random_output = eventRng.random()
 if random_output < monster_chance:
 	return MONSTER
@@ -77,13 +75,15 @@ Here, `monster_chance` starts at 10%, `shop_chance` starts at 3%, and `treasure_
 Putting everything together, we know that if the first combat is not a cultist, then the first call to `monsterRng` produces at least 0.25. But because `monsterRng` starts at the same state as `eventRng`, the first call to `eventRng` also produces a value of at least 0.25. Because any value greater than 0.15 results in an event, the first mystery room of the game must be an event.
 
 For the second part of the statement, suppose we know that the first combat of the game was Small Slimes and the second combat of the game was a Cultist, and we would like to predict the chance of getting an event in the second mystery room. Since the first combat of the game was not a Cultist, the first mystery room of the game was an event. Therefore, the chance of an event in the second mystery room is 70%. If the second call to `eventRng` is greater than 0.3, an event will be produced. Letting $X$ be the value of this second rng call and letting $C$ be the event that the second combat of the game is a Cultist, we have:
+
 $$
 \begin{align*}
-\mathbb{P}(X > 0.3 | C) &= \frac{\mathbb{P}(C | X > 0.3) \mathbb{P}(X > 0.3)}{\mathbb{P}(C)}\\
-&= \frac{\frac{1}{3} \left( \frac{0.25}{0.7} \right) 0.7}{\frac{1}{3}} && \text{(.25/.7 to roll slimes again given $X > 0.3$)}\\
+\mathbb{P}(X > 0.3 | C) &= \frac{\mathbb{P}(C | X > 0.3) \mathbb{P}(X > 0.3)}{\mathbb{P}(C)}\\[0.5ex]
+&= \frac{\frac{1}{3} \left( \frac{0.25}{0.7} \right) 0.7}{\frac{1}{3}} && \text{($\frac{0.25}{0.7}$ to roll slimes again if $X > 0.3$)}\\[0.5ex]
 &= 0.25
 \end{align*}
 $$
+
 So in this case, we have only a 25% chance of getting an event in the second room. The chance would only be 20% if the first combat encounter was a Jaw Worm, though. As the number of observed calls to `eventRng` and `monsterRng` increases, it becomes more difficult to do any of these calculations by hand. The main confounding factor is that after the first call to `monsterRng`, a random number of calls are discarded between each outcome that is observed, as the same combat encounter is rolled again. A computer program could perform the precise calculations, but I am personally not interested in writing such a program. I would like to see the RNG predictability issue fixed, instead.
 
 ## Predicting potion drops using card rarity
