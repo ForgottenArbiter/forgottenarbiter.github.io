@@ -9,18 +9,18 @@ Practically every day, I see people ask for advice on a few of the achievements 
 
 ## Who Needs Relics?
 
-This infamous achievement requires the player to defeat the act 3 boss while only having one relic. For many players, it is the hardest of the four challenge runs. Not only is the lack of relics (including boss relics) crippling to the player, but many people struggle with turning off the muscle memory to pick up every relic they see. There is also no way that I know of to truly cheat your way through this achievement. You must simply try until you succeed. Still, there are many things to keep in mind. First and foremost, are a few events that you must be extra wary of:
+This infamous achievement requires the player to defeat the act 3 boss while only having one relic. For many players, it is the hardest of the four challenge runs. Not only is the lack of relics (including boss relics) crippling to the player, but many people struggle with turning off the muscle memory to pick up every relic they see. There is also no trick or shortcut I can give for this achievement. You must simply play well and try until you succeed. Still, there are many points to keep in mind that may make the achievement easier to obtain. First, and most importantly, there are a few events that you must be extra wary of:
 
 * Neow: The boss relic swap is a very strong choice, as it tends to make your only relic stronger. It can backfire though. Black Star and Calling Bell in particular are probably worth an immediate restart. But relics like Cursed Key, Snecko Eye, or Pandora's Box can provide a huge advantage.
 * Neow: Do NOT accidentally take "Enemies in your next three combats have 1 HP." It will give you a relic. If Neow isn't offering the boss relic trade, you have to take the max HP.
 * Mind Bloom: Do NOT take the option to upgrade all your cards in exchange for no healing. It will give you a relic. Usually the correct choice here is the Act 1 boss fight, and then to skip the rare relic when it is offered.
-* Golden Idol: Many people accidentally take the idol here. Hopefully this warning will help you remember to skip. On the other hand, Golden Idol is the only relic that can be removed to save the challenge run, using an event in act 3. If you feel extremely lucky, you can hope that event shows up.
+* Golden Idol: It is possible to remove Golden Idol in act 3 if the Moai Head event appears, but it is much better to simply avoid taking the relic in the first place. Even if you accidentally pick up Golden Idol, it may be faster to start over than to complete the run and hope for the right event in act 3.
 
 To help with the muscle memory issue of automatically picking up relics, here are some suggestions:
 
 * Slow down! Take a few extra seconds in each event and after each fight to remind yourself not to take relics, and about your card choices and how they will be affected by not having any more energy or relics in the future.
-* Some people have luck physically taping a reminder to their screens where the relic reward would pop up, telling them not to pick up extra relics.
-* (Very minor exploit?) If you accidentally pick up a relic and have not yet progressed to the next floor, head to the options menu, save and quit, and reload your game. This will usually put you back in a state where you no longer have the relic.
+* For a constant physical reminder, you can try taping a note to your screen telling you to not pick up the relic.
+* (Exploit) If you accidentally pick up a relic and have not yet progressed to the next floor, head to the options menu, save and quit, and reload your game. This will usually put you back in a state where you no longer have the relic.
 
 And some general advice regarding the challenge:
 
@@ -30,11 +30,11 @@ And some general advice regarding the challenge:
 
 ### Class choice
 
-I have completed this challenge multiple times on all four classes. Assuming equal skill with all four, I believe the order of difficulty is Silent > Ironclad > Defect > Watcher, with Silent being the most challenging. For most players, I suggest using either Defect or Watcher, depending on their level of comfort with Watcher. However, all of the choices are quite valid.
+I have completed this challenge multiple times on all four classes. In order from most challenging to least, I believe the order of difficulty to be Silent, Ironclad, Defect, and then Watcher, assuming equal skill with each class. For most players, I suggest using either Defect or Watcher, depending on their level of comfort with Watcher. However, all of the choices are quite valid.
 
 #### Watcher
 
-Watcher is the class which relies least on having four energy, with many effective energy-generating cards and calm stance. She also scales well without relics and is generally the strongest character in the game. She also tends to punish mistakes more heavily than other characters, so some players will find Defect to be easier. Trading the starting relic is very strong on Watcher, but Watcher also has the strongest upgrade to the starting relic, if you choose to keep it.
+Watcher is the class which relies least on having four energy, as Calm stance generates energy as a core character mechanic, and many of her cards also generate energy effectively. She also scales well without relics and is generally the strongest character in the game. However, the Watcher also tends to punish mistakes more heavily than other characters, so some players will find Defect to be easier. Trading the starting relic is very strong on Watcher, as it has relatively low impact compared to most of the boss relics you can receive. If you choose to keep it her starting relic, however, Watcher also has one of the strongest starting relic upgrades. Here is a sample win with the Watcher. Like all sample runs I will provide, it by no means is intended to demonstrate the superiority of one strategy over another, but may provide an example or some inspiration for your own runs:
 
 ![image-20200808004650002](../images/3/image-20200808004650002.png)
 
@@ -42,19 +42,19 @@ Watcher is the class which relies least on having four energy, with many effecti
 
 When trying to earn all achievements as quickly as possible from a new save file, I would get my first win using Defect, and obtain both Common Sense and Who Needs Relics? in the same run. This can be fairly consistently done with a build featuring Claw, Hologram, Coolheaded, and Charge Battery, with some other commons sprinkled in as needed. If done on a fresh save file, Awakened One will also be the first boss, which is ideal for this strategy.
 
-However, unless you want to round up all the achievements as quickly as possible, there is no reason to restrict yourself to common cards. I recommend orb-oriented builds using card like Biased Cognition, Electrodynamics, Capacitor, Defragment, and Glacier, which do not rely much on relics and scale very effectively into late game. Self Repair can be especially useful for this challenge, given the lack of relics to help with healing and defense. Charge Battery and Turbo are nice common cards to use for extra energy if you do not have access to a 4th energy.
+However, unless you want to round up all the achievements as quickly as possible, there is no reason to restrict yourself to common cards. I recommend orb-oriented builds using card like Biased Cognition, Electrodynamics, Capacitor, Defragment, and Glacier, which do not rely much on relics and scale very effectively into late game. Self Repair can be especially useful for this challenge, given the lack of relics to help with healing and defense. Charge Battery and Turbo are nice common cards to use for extra energy if you do not have access to a 4th energy. This orb-based strategy is well represented in my most recent Who Needs Relics? run with Defect:
 
 ![image-20200808031206971](../images/3/image-20200808031206971.png)
 
 #### Ironclad
 
-I consider Ironclad to be a weaker choice than Watcher or Defect, mostly because Ironclad tends to struggle more when limited to three energy. I recommend taking the boss relic swap on Ironclad if available to try to get 4 energy, even though the starter relic is also quite strong. Without relics, you are likely to take more chip damage throughout the game, so builds which care less about this downside are ideal. My favorite choices are heavy strength gain with Reaper and extremely defensive builds with Barricade. Getting an early copy of Feed can also work wonders, allowing you to survive late game through sheer max HP advantage. Ironclad can take me a few tries to win with, however, if the cards and starting relic do not come together.
+I consider Ironclad to be a weaker choice than Watcher or Defect, mostly because Ironclad tends to struggle more when limited to three energy. I recommend taking the boss relic swap on Ironclad if available to try to get 4 energy, even though the starter relic is also quite strong. Without relics, you are likely to take more chip damage throughout the game, so builds which care less about this downside are ideal. My favorite choices are heavy strength gain with Reaper and extremely defensive builds with Barricade. Getting an early copy of Feed can also work wonders, allowing you to survive late game through sheer max HP advantage. For any build, Havoc and Offering can be useful cards for cheating expensive cards into play, especially when stuck on 3 energy. Here is a recent strength-based deck that barely scraped together a win:
 
 ![image-20200808113921510](../images/3/image-20200808113921510.png)
 
 #### Silent
 
-Silent is probably the class which relies most on relics. Her large starting deck is somewhat of a liability in the late game, especially if the starter relic is traded away. Her attacks struggle to deal significant damage late game, and she has some difficulty winning without access to 4 energy. When choosing silent for this achievement, I suggest building very defensively, using poison or powers to deal damage. Avoid relying on Shivs, as they tend to require relic support to be successful. It is probably not a good idea to take Concentrate in act 1, like I did in this run:
+Silent is probably the class which relies most on relics. Her large starting deck is somewhat of a liability in the late game, especially if the starter relic is traded away. Her attacks struggle to deal significant damage late game, and she has some difficulty winning without access to 4 energy. When choosing silent for this achievement, I suggest building very defensively, using poison or powers to deal damage. Avoid relying on Shivs, as they tend to require relic support to be successful. It is probably not a good idea to take Concentrate in act 1, like I did in this run, but I can certainly recommend the two copies of Footwork:
 
 ![image-20200808123131858](../images/3/image-20200808123131858.png)
 
