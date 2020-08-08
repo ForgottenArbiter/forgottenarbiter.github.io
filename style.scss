@@ -308,6 +308,39 @@ footer {
   text-align: center;
 }
 
+/*********************/
+/* TABLE OF CONTENTS */
+/*********************/
+
+.toc {
+  font-family: $helvetica;
+  background-color: $white;
+  border: 1px solid #2294ca;
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.toc-contents {
+  list-style: none;
+
+  ul {
+    margin-bottom: 0;
+  }
+
+  li {
+    padding-bottom: 7px;
+    padding-top: 7px;
+  }
+}
+
+.toc-title {
+  font-weight: bolder;
+  font-size: 90%;
+  color: $darkerGray;
+  padding-bottom: 2px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

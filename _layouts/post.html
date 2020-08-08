@@ -3,17 +3,28 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+    <h1>{{ page.title }}</h1>
 
-  <div class="entry">
-    {{ content }}
-  </div>
+    {% if page.toc %}
+    <div class="toc">
+        <div id="toc-title">
+            On this page:
+        </div>
+        <div id="toc-contents">
+            {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_max=3 %}
+        </div>
+    </div>
+    {% endif %}
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+    <div class="entry">
+        {{ content }}
+    </div>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  {% include comments.html element=".post" github_account="forgottenarbiter/forgottenarbiter.github.io" require_cookie_consent="false" %}
+    <div class="date">
+        Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    {% include comments.html element=".post" github_account="forgottenarbiter/forgottenarbiter.github.io"
+    require_cookie_consent="false" %}
 </article>
-
