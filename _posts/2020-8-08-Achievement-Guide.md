@@ -207,3 +207,22 @@ Did you make a bad decision under time pressure and want to undo it? Or did you 
 #### Put something good in the "Note for Yourself" event
 
 There is an event that allows you to pass trade for a card from one of your past runs. Playing on ascension 0 allows you to encounter this event with some regularity. Putting an especially powerful card into the event can make for some much easier speedruns. It is banned to take advantage of this in runs submitted to the speedrun.com leaderboards, but nothing stops you from doing it for the achievement. It's probably too much effort though to be worth it... unless you descend to depravity and edit your save files to put something really good in, like a Searing Blow+15.
+
+## Combining achievements
+
+Although the post only mainly covers four achievements, it is more efficient to earn as many achievements simultaneously as you can. Here are a few notable achievement combinations that go well with the achievements I have covered. Many of them have already been mentioned in their respective sections, but will be replicated here for completeness' sake:
+
+* All four challenge runs at once: [Defect with a 5-card Claw deck](https://www.youtube.com/watch?v=mBRIGqSu6Uk)
+* Speed Climber plus...
+  * **Minimalist**: Use Pandora's Box glitch, or just play really fast. A tiny Ironclad strength deck with Limit Break and Whirlwind can work well.
+  * **Common Sense**: Ironclad works the best, using a Perfected Strike build.
+  * **You are Nothing** or **The Transient**: An Ironclad strength or Whirlwind build is the best. The first Ironclad build I posted with Pyramid and Chemical X earned both of these achievements.
+  * **Anything else**: Most other achievements aren't well suited for combining with Speed Climber, but you can do it if you just play very quickly.
+* Who Needs Relics? plus...
+  * **Minimalist or Common Sense**: I don't recommend trying to combine these unless you just want an additional challenge or are speedrunning. However, if you want to do it, try a Defect Claw deck as shown in the video above or use Watcher. Watcher doesn't need relics to go infinite with Rushdown or kill enemies with a few common cards in Wrath stance.
+* Minimalist plus...
+  * **Infinity and You are Nothing and Perfect and The Transient:** I suggest an Ironclad or Watcher infinite with Dropkick or Rushdown. Unfortunately, to obtain You are Nothing and Transient, you will also need some good luck to receive the combat encounters you need.
+  * **Common Sense**: Watcher is a good choice if you only take common cards or use Pressure Points. As mentioned above, Defect does it well using Claw or Streamline. Ironclad can be done with a Body Slam build, but it will be slightly harder to win.
+  * **Purity**: Despite the name, Purity actually only requires you to have 4 cards left and then play a card. Therefore, any Minimalist build that uses a power will generally achieve Purity automatically.
+* As many achievements as possible at the same time:
+  * Well, maybe that can be a topic for a blog post or video in the future!
