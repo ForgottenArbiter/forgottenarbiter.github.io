@@ -28,7 +28,7 @@ And some general advice regarding the challenge:
 * I recommend attempting this challenge without ascension mode active. While some people suggest ascension 1 for more rare cards, I find that decks without relic support usually appreciate being able to dodge all elite fights in act 3.
 * The biggest challenge here will be late game, so consider taking more early game tradeoffs to make your deck as strong as possible for the end of the game (fewer mediocre damage cards in act 1, removing more cards, etc.). Meta-scaling cards like Feed are also especially good.
 
-### Class choice
+### Character-specific advice
 
 I have completed this challenge multiple times on all four classes. In order from most challenging to least, I believe the order of difficulty to be Silent, Ironclad, Defect, and then Watcher, assuming equal skill with each class. For most players, I suggest using either Defect or Watcher, depending on their level of comfort with Watcher. However, all of the choices are quite valid.
 
@@ -40,15 +40,15 @@ Watcher is the class which relies least on having four energy, as Calm stance ge
 
 #### Defect
 
-When trying to earn all achievements as quickly as possible from a new save file, I would get my first win using Defect, and obtain both Common Sense and Who Needs Relics? in the same run. This can be fairly consistently done with a build featuring Claw, Hologram, Coolheaded, and Charge Battery, with some other commons sprinkled in as needed. If done on a fresh save file, Awakened One will also be the first boss, which is ideal for this strategy.
+When trying to earn all achievements as quickly as possible from a new save file, I would get my first win using Defect, and obtain both Common Sense and Who Needs Relics? in the same run. This can be fairly consistently done with a build featuring **Claw**, **Hologram**, **Coolheaded**, and **Charge Battery**, with some other commons sprinkled in as needed. If done on a fresh save file, Awakened One will also be the first boss, which is ideal for this strategy.
 
-However, unless you want to round up all the achievements as quickly as possible, there is no reason to restrict yourself to common cards. I recommend orb-oriented builds using card like Biased Cognition, Electrodynamics, Capacitor, Defragment, and Glacier, which do not rely much on relics and scale very effectively into late game. Self Repair can be especially useful for this challenge, given the lack of relics to help with healing and defense. Charge Battery and Turbo are nice common cards to use for extra energy if you do not have access to a 4th energy. This orb-based strategy is well represented in my most recent Who Needs Relics? run with Defect:
+However, unless you want to round up all the achievements as quickly as possible, there is no reason to restrict yourself to common cards. I recommend orb-oriented builds using cards like **Biased Cognition**, **Electrodynamics**, **Capacitor**, **Defragment**, and **Glacier**, which do not rely much on relics and scale very effectively into late game. **Self Repair** can be especially useful for this challenge, given the lack of relics to help with healing and defense. Finally, **Charge Battery** and **Turbo** are nice common cards to use for extra energy if you do not have access to a 4th energy. This orb-based strategy is well represented in my most recent Who Needs Relics? run with Defect:
 
 ![image-20200808031206971](../images/3/image-20200808031206971.png)
 
 #### Ironclad
 
-I consider Ironclad to be a weaker choice than Watcher or Defect, mostly because Ironclad tends to struggle more when limited to three energy. I recommend taking the boss relic swap on Ironclad if available to try to get 4 energy, even though the starter relic is also quite strong. Without relics, you are likely to take more chip damage throughout the game, so builds which care less about this downside are ideal. My favorite choices are heavy strength gain with Reaper and extremely defensive builds with Barricade. Getting an early copy of Feed can also work wonders, allowing you to survive late game through sheer max HP advantage. For any build, Havoc and Offering can be useful cards for cheating expensive cards into play, especially when stuck on 3 energy. Here is a recent strength-based deck that barely scraped together a win:
+I consider Ironclad to be a weaker choice than Watcher or Defect, mostly because Ironclad tends to struggle more when limited to three energy. I recommend taking the boss relic swap on Ironclad if available to try to get 4 energy, even though the starter relic is also quite strong. Without relics, you are likely to take more chip damage throughout the game, so builds which care less about this downside are ideal. My favorite choices are heavy strength gain with **Reaper** and extremely defensive builds with **Barricade**. Getting an early copy of **Feed** can also work wonders, allowing you to survive late game through sheer max HP advantage. For any build, **Havoc** and **Offering** can be useful cards for cheating expensive cards into play, especially when stuck on 3 energy. Here is a recent strength-based deck that barely scraped together a win:
 
 ![image-20200808113921510](../images/3/image-20200808113921510.png)
 
@@ -62,7 +62,6 @@ Silent is probably the class which relies most on relics. Her large starting dec
 
 Minimalist is another tricky achievement, requiring you to beat the act 3 boss while having at most 5 cards in the your deck. This is best attempted when Neow is offering a card removal, ideally, to remove two cards. Transform effects are also useful, though any resulting cards may still need to be removed later. Still, the achievement can be obtained fairly consistently even without a good Neow offering. Generally, the game plan for this achievement is as follows, and usually doesn't require you to get lucky with Empty Cage or Peace Pipe for extra removals:
 
-* Use any class except Silent, who starts with a larger deck. The achievement can be obtained with Silent, especially if you abuse glitches, but it's much less consistent. Watcher is probably the easiest, and I got 5 minimalist wins in a row with her in testing while writing this post.  Ironclad and Defect are both similar difficulty.
 * Play on ascension 1 or 0, whichever you find more comfortable. Relics can be very helpful for some of the weaker Minimalist decks, but act 3 elites, especially Nemesis, can be problematic. Ascension 1 also tends to have fewer events than ascension 0, so card removals may be slightly more scarce.
 * Take any card removal option from Neow if available, or gamble for a good transform if it is offered. Otherwise, the chances of getting Minimalist are much lower, but I like swapping for a boss relic to see what I get. Astrolabe, Pandora's Box, and Empty Cage are all very useful swaps, though you would prefer to get Empty Cage later. Taking gold from Neow can also be a good option, as Minimalist runs tend to be tight on gold.
 * Take only 2 or 3 cards throughout the entire run. Turn down all others, and make sure the cards you do take are effective in a final five-card deck. More on specific card choices later.
@@ -74,13 +73,21 @@ Taking at most 2-3 cards is very important for consistently getting this achieve
 
 ### Character-specific advice
 
+For Minimalist, I recommend using any class except Silent, who starts with a larger deck. The achievement can be obtained with Silent, especially if you abuse glitches, but it's much less consistent, so I will not discuss her card picks. Watcher is the easiest class for Minimalist, and I achieved 5 minimalist wins in a row with her in testing while writing this post.  Ironclad and Defect are both similar difficulty, but noticeably more difficult than Watcher.
+
+#### Ironclad
+
 Ironclad has many useful cards for a Minimalist build. **Searing Blow** is a powerhouse for Minimalist builds. Just watch out for Darklings, who require a way to kill two in one turn. **Body Slam** is a classic choice for Minimalist, as it works well with the starting Defends. Sometimes it is a little bit too slow, however, if you do not find good cards to use with it. Depending on the deck, **Battle Trance** or **Shrug it Off** are good for playing key cards twice, such as **Rampage**, which scales very quickly when played twice each turn. With cards or relics that effectively take advantage of them, **Barricade** and **Demon Form** provide strong ways to win fights, even in small decks. **Whirlwind** is another attack that fits well into many Minimalist strategies. Many players also take advantage of the starting Bash to create a turn-one infinite with two copies of **Dropkick**, or one copy combined with Dual Wield. This can work, but a plan for Time Eater or Donu + Deca may be needed, to deal with the artifact or time maze powers. Here is an example minimalist deck using Rampage as the primary source of damage, with an Evolve to deal with some problematic encounters:
 
 ![minimalist-ironclad](../images/3/image-20200807021543526.png)
 
+#### Defect
+
 Defect can scale very rapidly with **Claw** and **Coolheaded**. Do not take two copies of Claw, though two copies of Coolheaded are useful to play Claw once for each energy. **Streamline** and **Hologram** are slightly worse common substitutes if Claw and Coolheaded do not show up. Taking these cards is an excellent way to combine Minimalist with the Common Sense achievement. Of course, other cards also go well with this strategy. Anything that draws cards allows for multiple Claws in one turn, and strong defensive cards are also useful. Alternatively, Defect has an effective infinite plan using **Fusion+** and something like **Skim**, plus a zero-cost attack (the starting Zap works well). Generic orb-oriented strategies also work if you can fit them into your limited card picks, especially given relic support like Inserter. Electrodynamics is an especially efficient card. The easiest Defect plan is probably just Claw, though, like in this run:
 
 ![image-20200807002628741](../images/3/image-20200807002628741.png)
+
+#### Watcher
 
 One of the best cards you can find on Watcher is **Rushdown**. The starting Vigilance and Eruption, each played three or four times per turn using Rushdown, is usually already enough to win the game. Adding **Fear No Evil** or **Inner Peace** on top of Rushdown also allows for turn-one infinite combos, which can help with other achievements. The relics **Snecko Eye** and **Violet Lotus** also allow Rushdown to go infinite with just the starting cards (well, only sort of with Snecko Eye). Even if Rushdown does not show up, Watcher has many options.  I like **Mental Fortress** for 12 block each turn, and **Wallop** for a consistent 24 damage/24 block package for 2 energy. **Signature Move** is easy to make consistent in a minimalist deck, and does enormous damage. **Pressure Points** doesn't synergize with the starting deck, but it can certainly get the job done if you also draft a way to draw cards. The Watcher doesn't need very much from her cards to get a Minimalist win. Here is an example with only Mental Fortress and Just Lucky added (of course, Nilry's helped):
 
@@ -101,29 +108,48 @@ There is no special timing or practice necessary. If you follow these directions
 
 ## Common Sense
 
-To earn the Common Sense achievement, you need to defeat the act 3 boss while having no uncommon or rare cards in your deck. This wording is very important. If a card has a rarity that is not uncommon or rare, it is allowed to be in your deck. This includes curses, basic cards (Strike, Defend, etc.), and special cards from events (Ritual Dagger, Apparition, etc.). Also, only the final state of your deck matters. If you carry a rare card through most of the game but remove it before the end, the achievement will still unlock. Like Minimalist, it can also be obtained after killing the Corrupt Heart, if Act 4 is needed to remove an uncommon or rare card. This is not usually, done, however, due to the extra difficulty involved.
-
-Like Minimalist, the recommended class for this challenge is any class except Silent. The Silent has few ways to scale her damage and defense using only common cards, so choosing Silent will make the challenge much more difficult. My favorite class to use for Common Sense is Defect. Ascension 1 is often chosen as the difficulty level when attempting Common Sense, due to the extra elites. Ascension 0 is a fine choice as well, though. As a point of warning, beware transform effects, which give non-common cards more often than not.
+To earn the Common Sense achievement, you need to defeat the act 3 boss while having no uncommon or rare cards in your deck. This wording is very important. If a card has a rarity that is not uncommon or rare, it is allowed to be in your deck. This includes curses, basic cards (Strike, Defend, etc.), and special cards from events (Ritual Dagger, Apparition, etc.). Also, only the final state of your deck matters. If you carry a rare card through most of the game but remove it before the end, the achievement will still unlock. Like Minimalist, it can also be obtained after killing the Corrupt Heart, if Act 4 is needed to remove an uncommon or rare card. However, due to the extra difficulty involved, this is rarely useful.
 
 Similar to Who Needs Relics, the rarity restriction of Common Sense is felt more heavily the longer the game goes on. Therefore, it makes sense to take early tradeoffs which increase your late game power. A thin deck can be a good idea, as it allows you to upgrade most of your cards on lower difficulties. Some cards like **Perfected Strike** like more inflated decks, however. Elite fights should also be prioritized in the early part of the game, to help scale harder through relics, because the available late-game scaling through card choices is lower.
 
-### Ironclad advice
+### Character-specific advice
+
+Like Minimalist, the recommended class for this challenge is any class except Silent. The Silent has few ways to scale her damage and defense using only common cards, so choosing Silent will make the challenge much more difficult. My favorite class to use for Common Sense is Defect. Ascension 1 is often chosen as the difficulty level when attempting Common Sense, due to the extra elites. Ascension 0 is a fine choice as well, though. As a point of warning, beware transform effects, which give non-common cards more often than not.
+
+#### Ironclad
 
 Ironclad has one main card going for him when attempting Common Sense: **Perfected Strike**. The strategy to get the achievement with Perfected Strike is simple: take every copy of Perfected Strike, plus some copies of **Pommel Strike**. If you can get some upgraded copies of **Shrug it Off**, they will help in the few fights that cannot be won immediately. Defends should be removed before Strikes, and getting a 4th energy or a Snecko Eye from a boss relic is very important. The other strikes should be picked in moderation. Even with Perfected Strike, you don't want too many Twin Strikes or Wild Strikes. Sometimes the Perfected Strike build will take a couple tries to come together because Perfected Strike never shows up, but it is one of the most common builds used for Common Sense. You don't need too many Perfected Strikes, either. Here, I only found two copies:
 
 ![common-sense-ironclad](../images/3/image-20200807091700379.png)
 
-### Defect advice
+#### Defect
 
 I already discussed the recommended Common Sense build for the Who Needs Relics achievement and the Minimalist achievement. Basically, you put together a Claw deck. Early on, a copy of **Ball Lightning** does wonders against elites. But you should quickly pick up a few copies of **Claw** and several of **Hologram** to replay the Claws. **Charge Battery** and **Coolheaded** are the main options for defense and card draw, but adding a **Leap** or **Compile Driver** isn't bad either. Really, it's hard to go wrong with most of the common cards. Almost all of them can work in this deck. Don't take too many Claws though, and don't dilute the deck too much. Remember that with a discarded Claw, every copy of Hologram is also potentially another Claw. If Claw never shows up, **Streamline** is an inferior alternative, though Claw and Streamline do not mix well. For a spike of early power, something like **Electrodynamics** can be added to the deck and removed right before the end. Here is an example run which only found one copy of Claw, halfway through act 2. I could usually play it at least 3 times per turn, though:
 
 ![common-sense-defect](../images/3/image-20200807100700637.png)
 
-### Watcher advice
+#### Watcher
 
-Like Claw in Defect, the most obvious common, self-scaling Watcher card is **Pressure Points**. The damage will stack up very quickly, but you also need a way to block. The Watcher has lots of decent common block cards, so this should not be a big problem. To help with late game scaling, and to play the copies of Pressure Points faster, I recommend a relatively slim deck, with most of the block cards upgraded. Watcher does not need much added to her basic deck to beat the game, after all. Upgraded **Third Eye** is especially insane for filtering through her deck to find the copies of Pressure Points.
+Like Claw in Defect, the most obvious common, self-scaling Watcher card is **Pressure Points**. The damage will stack up very quickly, but you also need a way to block. The Watcher has lots of decent common block cards, so this should not be a big problem. To help with late game scaling, and to play the copies of Pressure Points faster, I recommend a relatively slim deck, with most of the block cards upgraded. Watcher does not need much added to her basic deck to beat the game, after all. Upgraded **Third Eye** is especially valuable for filtering through her deck to find the copies of Pressure Points.
 
-Of course, Pressure Points is just one tool for getting Common Sense done with the Watcher, and perhaps not even the most consistent tool. Because Wrath stance already provides enough damage for the Watcher to deal with every threat in the game, building for attack damage is also very effective. **Crush Joints** is a good damage multiplier through Vulnerable, and **Empty Fist** does immense damage when upgraded. **Cut Through Fate** is one of the best common cards in the game, and **Follow-Up** or **Consecrate** do lots of damage without an energy cost. The main problem is that only **Eruption** and **Crescendo** are available to enter Wrath. Having a smaller deck will help, but **Flying Sleeves** can also be used to help guarantee that damage cards are drawn together with an entrance to Wrath stance. Flying Sleeves isn't a very powerful card relative to Watcher's other options, though. Enough copies of Cut Through Fate tend to do a better job. And make sure to pick up a few defensive cards. Again, upgraded **Third Eye** is incredible, and **Evaluate** can be somewhat useful when upgraded as a source of card draw and block if Cut Through Fate isn't showing up. Anyway, if you are comfortable enough playing Watcher, getting Common Sense with her should not be too difficult. Here is an example Common Sense deck that simply used common attack cards in wrath stance. It was capable of dealing over 100 damage per turn, while simultaneously generating significant block:
+Of course, Pressure Points is just one tool for getting Common Sense done with the Watcher, and perhaps not even the most consistent tool. Because Wrath stance already provides enough damage for the Watcher to deal with every threat in the game, building for attack damage is also very effective. The core strategy here is to find a way to reliably enter Wrath stance most turns and use our extremely efficient common attack cards to deal damage. Because **Eruption** is the only card we can use to repeatedly enter Wrath stance, we want to keep the deck relatively small so we can draw it more easily. The rest of our deck should have a good balance of attack damage, draw, and block. Almost every common card works in the deck. The only common cards which are less useful, which I do not recommend prioritizing (though none of them are completely terrible if you feel you need them) are:
+
+* **Bowling Bash** and **Flying Sleeves**: Not terrible, but you have better attack cards available
+* **Just Lucky**: Does a bit of everything, but doesn't have as much overall value as other picks. It does get better with Shuriken or Kunai, though.
+* **Prostrate**: It could be worth considering with the Damaru relic, but is usually just too slow to be worth taking.
+* **Protect**: With a thin, highly-upgraded deck that contains multiple scry cards, you should not need a relatively inefficient but self-retaining block card. Protect isn't that bad, though.
+* **Tranquility** and **Crescendo**: You should be able to draw Tranquility and Eruption consistently with your deck. Empty Fist is a better way to exit Wrath stance than Tranquility, too.
+* **Empty Body**: The other block cards are likely to do more in your deck. You would almost always rather play Vigilance than Empty Body.
+* **Pressure Points**: This card does not synergize with anything else we are doing. Building around it is okay for Common Sense, just not this build.
+
+The best attack cards are:
+
+* **Cut Through Fate**: One of the best common cards in the game, helps us find the right cards to draw each turn, and does good damage
+* **Crush Joints**: We want one copy if we can find it to dramatically increase our damage dealt
+* **Flurry of Blows**: Free, decent damage that often does not cost card draw when scried, and we can probably play it multiple times per turn. Try to take at least one or two copies.
+* **Empty Fist**: When upgraded, it does 14 damage for one energy, which is incredibly efficient. It is also nice to have one of these to exit Wrath stance at the end of the turn.
+
+With the attack cards I listed, a couple block cards, and maybe a few more picks to round out your deck, you should be able to achieve Common Sense with the Watcher, as long as you are comfortable with her mechanics. You have a lot of flexibility with your picks, so have fun with it, and make sure to fight some elites in act 1 and 2. Here is an example Common Sense deck that followed my recommendations above. It was capable of dealing over 100 damage per turn, while simultaneously generating significant block:
 
 ![common-sense-watcher](../images/3/image-20200807235103525.png)
 
