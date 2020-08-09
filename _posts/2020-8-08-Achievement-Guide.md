@@ -9,7 +9,7 @@ Practically every day, I see people ask for advice on a few of the achievements 
 
 ## Who Needs Relics?
 
-This infamous achievement requires the player to defeat the act 3 boss while only having one relic. For many players, it is the hardest of the four challenge runs. Not only is the lack of relics (including boss relics) crippling to the player, but many people struggle with turning off the muscle memory to pick up every relic they see. There is also no trick or shortcut I can give for this achievement. You must simply play well and try until you succeed. Still, there are many points to keep in mind that may make the achievement easier to obtain. First, and most importantly, there are a few events that you must be extra wary of:
+This infamous achievement requires the player to defeat the act 3 boss while only having one relic. For many players, it is the hardest of the four challenge runs, and it is the least achieved of the challenge runs on Steam. Not only is the lack of relics (including boss relics) crippling to the player, but many people struggle with turning off the muscle memory to pick up every relic they see. There is also no trick or shortcut I can give for this achievement. You must simply play well and try until you succeed. Still, there are many points to keep in mind that may make the achievement easier to obtain. First, and most importantly, there are a few events that you must be extra wary of:
 
 * Neow: The boss relic swap is a very strong choice, as it tends to make your only relic stronger. It can backfire though. Black Star and Calling Bell in particular are probably worth an immediate restart. But relics like Cursed Key, Snecko Eye, or Pandora's Box can provide a huge advantage.
 * Neow: Do NOT accidentally take "Enemies in your next three combats have 1 HP." It will give you a relic. If Neow isn't offering the boss relic trade, you have to take the max HP.
@@ -242,13 +242,18 @@ Although the post only mainly covers four achievements, it is more efficient to 
 * Speed Climber plus...
   * **Minimalist**: Use Pandora's Box glitch, or just play really fast. A tiny Ironclad strength deck with Limit Break and Whirlwind can work well.
   * **Common Sense**: Ironclad works the best, using a Perfected Strike build.
-  * **You are Nothing** or **The Transient**: An Ironclad strength or Whirlwind build is the best. The first Ironclad build I posted with Pyramid and Chemical X earned both of these achievements.
-  * **Anything else**: Most other achievements aren't well suited for combining with Speed Climber, but you can do it if you just play very quickly.
+  * **You are Nothing** or **Perfect** or **The Transient**: An Ironclad strength or Whirlwind build is the best. The first Ironclad build I posted with Pyramid and Chemical X earned all of these achievements.
+  * **Anything else**: Most other achievements aren't especially well suited for combining with Speed Climber, but you can do it if you just play very quickly.
 * Who Needs Relics? plus...
-  * **Minimalist or Common Sense**: I don't recommend trying to combine these unless you just want an additional challenge or are speedrunning. However, if you want to do it, try a Defect Claw deck as shown in the video above or use Watcher. Watcher doesn't need relics to go infinite with Rushdown or kill enemies with a few common cards in Wrath stance.
+  * **Minimalist or Common Sense**: I don't recommend trying to combine these unless you just want an additional challenge or are speedrunning achievements. However, if you want to do it, try a Defect Claw deck as shown in the video above or use Watcher. Watcher doesn't need relics to go infinite with Rushdown and Fear No Evil or to kill enemies with a few common cards in Wrath stance.
 * Minimalist plus...
-  * **Infinity and You are Nothing and Perfect and The Transient:** I suggest an Ironclad or Watcher infinite with Dropkick or Rushdown. Unfortunately, to obtain You are Nothing and Transient, you will also need some good luck to receive the combat encounters you need.
+  * **Infinity** or **You are Nothing**  or **Perfect** or **The Transient:** I suggest an Ironclad or Watcher infinite with Dropkick or Rushdown. Unfortunately, to obtain You are Nothing and The Transient, you will also need some good luck to receive the combat encounters you need.
   * **Common Sense**: Watcher is a good choice if you only take common cards or use Pressure Points. As mentioned above, Defect does it well using Claw or Streamline. Ironclad can be done with a Body Slam build, but it will be slightly harder to win.
-  * **Purity**: Despite the name, Purity actually only requires you to have 4 cards left and then play a card. Therefore, any Minimalist build that uses a power will generally achieve Purity automatically.
+  * **Purity**: Despite the description, Purity actually only requires you to have 4 cards left and then play a card. Therefore, any Minimalist build that uses a power or gets down to 4 cards will generally also achieve Purity.
 * As many achievements as possible at the same time:
   * Well, maybe that can be a topic for a blog post or video in the future!
+
+## A short conclusion
+
+And there you have my thoughts on efficiently earning each of the four challenge run achievements in Slay the Spire. I hope you learned something useful from reading this article, and wish you luck on your own achievement hunt!
+
