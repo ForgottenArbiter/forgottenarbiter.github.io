@@ -60,7 +60,7 @@ When the map tier is lower, the chance of spawning higher-tier seeds decreases. 
 When a crop is activated, each seed sprouts into a number of monsters of the seed's species:
 
 * A T4 seed always spawns exactly one boss monster.
-* A T3 seed always spawns rare monsters.
+* A T3 seed always spawns at least one monster.
 * A T1 (low confidence), T2, or T3 seed has a chance to spawn an additional monster equal to the map's increased pack size.
   * If the pack size is over 100%, then the seed always spawns one additional monster and has a chance of spawning 2 additional monsters equal to the percentage that the pack size exceeds 100%.
 * If the Atlas passive "Harvested Plants in Areas have 10% chance to spawn an additional Monster" is allocated, then a T1, T2, or T3 seed has a 10% chance to spawn another additional monster. This is completely separate from the monster that may be spawned from pack size.
@@ -97,6 +97,7 @@ Based on my testing, I have not found evidence that anything else modifies the a
 * Einhar's Memory of the Sacred Grove does not affect the mechanics of spawning monsters from seeds or dropping lifeforce. It does increase the size of crops to 45-47 seeds, depending on their location in the Sacred Grove. Higher tier seeds also become more likely, but the specific mechanics behind this are unknown. On average, approximately three Tier-4 seeds will spawn across the four maps of a single memory. As with all memories, all Atlas passives will be disabled.
 * Boss monsters from T4 seeds have a small chance of dropping a valuable Sacred Blossom. The drop rate is unknown and may depend on hidden factors or have been adjusted throughout the Lake of Kalandra league. See #TODO HERE
 * I did not collect data on the chance of Harvest appearing in a map, but if you trust poedb, the base chance for Harvest is 8% and you can use the calculator [here](https://poedb.tw/us/Extra_Content#Extra_Content) to calculate the chance for any Atlas tree configuration.
+* Hopefully someday the devs can fix the bug where Harvest bosses never enter their summoning phase. I find that sometimes it helps to go really far away or leave the Sacred Grove and then come back, but this may just be placebo.
 
 # Optimal Harvest Farming
 
