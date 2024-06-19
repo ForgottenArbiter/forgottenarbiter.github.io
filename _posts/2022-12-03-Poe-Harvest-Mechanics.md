@@ -414,8 +414,8 @@ For an example of how this information can be used, consider that given some lig
 
 ![harvest-value](../images/4/harvest_value_1.png)
 
-Specific examples from long ago won't be useful anymore, but the tools used to estimate harvest value can be found in the following repository, along with the data and code required to recreate most of the other figures from this post: 
+Specific examples from long ago won't be useful anymore, but the tools used to estimate harvest value can be found in the following repository, along with the data and code required to recreate most of the other figures from this post: https://github.com/ForgottenArbiter/HarvestSim 
 
-Hopefully, this might inspire others to do some similar analysis for other mechanics which might be amenable to the same sort of thing. For example, if the distribution of essences were to be known along with the exact mechanics of corrupting them and the interactions with the Atlas tree, then it should be a simple matter to compare profitability of Essence farming strategies exactly, without resorting the current favored approach of PoE content creators: run tens or hundreds of maps with each specific strategy.
+With luck, this post might inspire others to do some similar analysis for other mechanics which might be amenable to the same sort of thing. For example, if the distribution of essences were to be known along with the exact mechanics of corrupting them and the interactions with the Atlas tree, then it should be a simple matter to compare profitability of Essence farming strategies exactly, without resorting the current favored approach of PoE content creators: run tens or hundreds of maps with each specific strategy.
 
 Anyway, many apologies for how tardy this post is; my interest in PoE has not been as high as it was when I began this project, my pace of writing tends to be very slow, and I kept on finding more things to test. Hopefully, people can still find its contents useful.
